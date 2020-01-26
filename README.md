@@ -1,2 +1,4 @@
 # handlebars_experiment
-Simple web site  - Handlebars framework 
+
+Project to refactor prior website developed in Handlebars.
+
