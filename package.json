@@ -1,0 +1,28 @@
+{
+  "name": "OSU_CS290_Winter_2017_Final_Project",
+  "version": "0.1.0",
+  "description": "Website using mySQL on Node.js on osu flip server",
+  "keywords": [
+    "CS290",
+    "OSU"
+  ],
+  "homepage": "<project home page>",
+  "author": {
+    "name": "<Giovanni",
+    "url": "http://flip3.engr.oregonstate.edu:10040/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<source repo url>"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.11.3",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {
+    "uglify-js": "2.x"
+  }
+}
